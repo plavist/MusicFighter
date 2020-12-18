@@ -901,3 +901,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.18-15.24.14:659][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2020.12.18-15.24.14:738][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
 [2020.12.18-15.24.14:777][921]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.12.18-16.03.26:417][807]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2020.12.18-16.03.26:417][807]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
